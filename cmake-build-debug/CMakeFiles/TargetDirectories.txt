@@ -1,0 +1,3 @@
+C:/Users/Edgardo Jimenez/CLionProjects/Probando/Area Figuras/cmake-build-debug/CMakeFiles/Area_Figuras.dir
+C:/Users/Edgardo Jimenez/CLionProjects/Probando/Area Figuras/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Edgardo Jimenez/CLionProjects/Probando/Area Figuras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
